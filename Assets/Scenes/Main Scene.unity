@@ -469,7 +469,7 @@ MonoBehaviour:
 
 
 
-    PRESS SPACE BAR TO START'
+    PRESS SPACE  TO START'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5f5e048bf95a77c4daa0f846589d7b94, type: 2}
   m_sharedMaterial: {fileID: -598244952767678135, guid: 5f5e048bf95a77c4daa0f846589d7b94, type: 2}
@@ -1055,7 +1055,7 @@ MonoBehaviour:
 
 
 
-    GAME OVER'
+    GAME OVER!'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5f5e048bf95a77c4daa0f846589d7b94, type: 2}
   m_sharedMaterial: {fileID: -598244952767678135, guid: 5f5e048bf95a77c4daa0f846589d7b94, type: 2}
@@ -1295,8 +1295,8 @@ Transform:
   m_GameObject: {fileID: 1214712406}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.15, z: 0}
-  m_LocalScale: {x: 37.5, y: 1, z: 1}
+  m_LocalPosition: {x: -0.0621, y: -0.5724, z: 0}
+  m_LocalScale: {x: 37.62375, y: 0.1553, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -1354,7 +1354,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 256f4c3e78ac69843a3294f57350b4ea, type: 2}
+  - {fileID: 2100000, guid: f09ce2b156d5dba46b56adbb97c0a2d7, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1684,25 +1684,25 @@ MonoBehaviour:
   objects:
   - prefab: {fileID: 5401799770267756767, guid: 2d176b91b816a1944b4fe325adc177b1, type: 3}
     spawnChance: 0.05
-  - prefab: {fileID: 2888636401891820401, guid: 15fb5df0e35fff943b4aff2cf459522c, type: 3}
+  - prefab: {fileID: 1385549284409674, guid: 486f42fcb063b4b4fa79b395c40825eb, type: 3}
     spawnChance: 0.1
-  - prefab: {fileID: 3640408189476861280, guid: 6e4a3c89c71b0864589356f593bdd74e, type: 3}
+  - prefab: {fileID: 1873550429025946, guid: 05a512aa4c73d604892921f1d2a511e2, type: 3}
     spawnChance: 0.1
-  - prefab: {fileID: 2942694471478360752, guid: f78992c00a9a0d046a6adefa685bccd1, type: 3}
+  - prefab: {fileID: 1561673317274754, guid: 20b4923008369ef4883c3ccd4a040d1e, type: 3}
     spawnChance: 0.1
-  - prefab: {fileID: 9040931564359712719, guid: 77f80120bb455e74385735b4ead5992d, type: 3}
+  - prefab: {fileID: 1754417599737178, guid: efbbc1a7890bb6044a8fa67db33f6ade, type: 3}
     spawnChance: 0.1
-  - prefab: {fileID: 1349492635126773913, guid: fd5612602f2afe9488eacdcc9b297330, type: 3}
+  - prefab: {fileID: 1068010750685704, guid: f72335d0f97cbdd4abec38471223522a, type: 3}
     spawnChance: 0.1
-  - prefab: {fileID: 6413642771897518827, guid: 7574d8b2f83cb554c883f2b48205a4f1, type: 3}
+  - prefab: {fileID: 1054243637467462, guid: 36eefd045905ea840940e9553e42ce8c, type: 3}
     spawnChance: 0.1
-  - prefab: {fileID: 2799665257807974996, guid: 52a6d6fbafc87c54ba43dcf1d1298711, type: 3}
+  - prefab: {fileID: 1768472585320842, guid: 4dc93bd254f2c41479bfed68801a7bad, type: 3}
     spawnChance: 0.1
-  - prefab: {fileID: 2883926005212823311, guid: 963d39fa96282524a9ac4e829e697f9a, type: 3}
+  - prefab: {fileID: 1561673317274754, guid: 20b4923008369ef4883c3ccd4a040d1e, type: 3}
     spawnChance: 0.1
-  - prefab: {fileID: 2198184896600091862, guid: f2218724bd0a4fe41af8f2782e86a191, type: 3}
+  - prefab: {fileID: 1754417599737178, guid: efbbc1a7890bb6044a8fa67db33f6ade, type: 3}
     spawnChance: 0.1
-  - prefab: {fileID: 7095939280781592092, guid: c0daabad045272d4e81d275ffe6952f2, type: 3}
+  - prefab: {fileID: 1768472585320842, guid: 4dc93bd254f2c41479bfed68801a7bad, type: 3}
     spawnChance: 0.05
   minSpawnRate: 1
   maxSpawnRate: 2
